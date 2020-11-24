@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23450
   title: དཔལ་ཡུལ་ཆོས་སྤྱོད་༔་ཅོལླེཅཏེད་ལིཏུརྒིཅལ་ཏེ྾ཙ་རེཅིཏེད་ཨཏ་ཐེ་མོནསྟེརཡ་དཔལ་ཡུལ་ཨིན་ཁམས
-  volume: ''
+  volume:
+    fbbde6f8779044c596e0a09c2f534402:
+      image_group_id: I1KG1377
+      title: 'Volume 1 of dpal yul chos spyod : collected liturgical texts receited
+        at the monastery dpal yul in khams'
+      volume_number: 1
+      total_pages: 880
   author: ''
+ebook_metadata:
+  title: དཔལ་ཡུལ་ཆོས་སྤྱོད་༔་ཅོལླེཅཏེད་ལིཏུརྒིཅལ་ཏེ྾ཙ་རེཅིཏེད་ཨཏ་ཐེ་མོནསྟེརཡ་དཔལ་ཡུལ་ཨིན་ཁམས
+  author: ''
+  sku: P000386
+  cover: cover.jpg
+  layers:
+  - pagination

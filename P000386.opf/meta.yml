@@ -1,5 +1,7 @@
 id: P000386
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W23450
   title: དཔལ་ཡུལ་ཆོས་སྤྱོད་༔་ཅོལླེཅཏེད་ལིཏུརྒིཅལ་ཏེ྾ཙ་རེཅིཏེད་ཨཏ་ཐེ་མོནསྟེརཡ་དཔལ་ཡུལ་ཨིན་ཁམས
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 880
       base_file: v001.txt
-ebook_metadata:
-  title: དཔལ་ཡུལ་ཆོས་སྤྱོད་༔་ཅོལླེཅཏེད་ལིཏུརྒིཅལ་ཏེ྾ཙ་རེཅིཏེད་ཨཏ་ཐེ་མོནསྟེརཡ་དཔལ་ཡུལ་ཨིན་ཁམས
-  author: ''
-  sku: P000386
-  cover: cover.jpg
-  layers:
-  - pagination
